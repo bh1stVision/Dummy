@@ -7,6 +7,7 @@
         mc:Ignorable="d"
         Title="Dummy" Height="450" Width="800" Background="DeepPink">
     <Grid>
-        <Button Content="Push me!" HorizontalAlignment="Center" VerticalAlignment="Center" Background="DarkKhaki"/>
+        <Button Content="Push me!" HorizontalAlignment="Center" VerticalAlignment="Center" Background="DarkKhaki" Click="Button_Click" Height="40" Width="80"/>
+        
     </Grid>
 </Window>
